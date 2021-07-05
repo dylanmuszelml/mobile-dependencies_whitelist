@@ -688,7 +688,7 @@
     {
       "group": "com\\.mercadolibre\\.android\\.flox",
       "name": "engine",
-      "version": "5\\.\\+"
+      "version": "5\\.\\9.\\+"
     },
     {
       "group": "com\\.mercadolibre\\.android\\.fluxclient",
@@ -874,7 +874,7 @@
     },
     {
       "group": "com\\.mercadolibre\\.android\\.mlwebkit",
-      "version": "1\\.\\+"
+      "version": "1\\.\\3.\\+"
     },
     {
       "group": "com\\.mercadolibre\\.android\\.uinavigationcp",
